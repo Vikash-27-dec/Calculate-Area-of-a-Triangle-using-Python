@@ -11,5 +11,5 @@
 
 ## 🚀 How to Run:
 ```bash
-python triangle_area.py
+area triangle.py
 
