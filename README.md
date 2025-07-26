@@ -1,2 +1,15 @@
 # Calculate-Area-of-a-Triangle-using-Python
-This Python program calculates the area of a triangle using the standard formula based on base and height. It's a part of my basic Python programming practice to understand input, arithmetic operations, and output formatting.
+
+## 📌 What You'll Learn:
+- Taking input from users
+- Performing arithmetic operations
+- Displaying formatted output
+- Understanding basic geometry in Python
+
+## 📂 File:
+- `area triangle.py` – Python script to calculate area
+
+## 🚀 How to Run:
+```bash
+python triangle_area.py
+
